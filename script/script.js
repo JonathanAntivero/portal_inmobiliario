@@ -154,14 +154,24 @@ function crearTarjeta(prop) {
   return card;
 }
 
+function normalizarTexto(str) {
+  return str
+    .normalize('NFD')
+    .replace(/[\u0300-\u036f]/g, '') // saca los acentos/tildes
+    .toLowerCase()
+    .trim();
+}
+
 function renderizarPropiedades() {
-  const texto = busquedaActual.trim().toLowerCase();
+  const texto = normalizarTexto(busquedaActual);
 
   const filtradas = PROPIEDADES.filter(prop => {
     const coincideCategoria = filtroActual === 'todas' || prop.categoria === filtroActual;
     const coincideTexto = !texto ||
-      prop.titulo.toLowerCase().includes(texto) ||
-      prop.ubicacion.toLowerCase().includes(texto);
+      normalizarTexto(prop.titulo).includes(texto) ||
+      normalizarTexto(prop.ubicacion).includes(texto) ||
+      normalizarTexto(ETIQUETAS_CATEGORIA[prop.categoria]).includes(texto) ||
+      normalizarTexto(prop.categoria).includes(texto);
     return coincideCategoria && coincideTexto;
   });
 
