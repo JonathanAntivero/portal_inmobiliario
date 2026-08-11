@@ -33,7 +33,7 @@ const PROPIEDADES = [
     precio: '$ 70.000 USD (recibo vehículo como parte de pago)',
     descripcion: 'Casa de 3 habitaciones, 2 baños, comedor, patio, quincho techado y cerrado, cochera grande con porton elevadizo automatizado. Incluye departamento independiente con: un una habitacion, baño, cochera con porton elevadizo automatizado.',
     caracteristicas: ['3 dormitorios', '2 baños', 'cocina', 'living', 'comedor', 'quincho', 'Jardín', 'Parrilla'],
-    fotos: ['fotos/foto06.jpg', 'fotos/foto07.jpg', 'fotos/foto08.jpg', 'fotos/foto09.jpg', 'fotos/foto10.jpg'],
+    fotos: ['fotos/foto06.jpg', 'fotos/foto07.jpg', 'fotos/foto08.jpg', 'fotos/foto09.jpg', 'fotos/foto010.jpg'],
     lat: -34.4264,
     lng: -58.5796,
     mapaEmbed: 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3335.419840847655!2d-66.32536312415895!3d-33.28167768888897!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95d43ec82baeabfb%3A0x4c359562b18f38d9!2sMaestro%20Gonz%C3%A1lez%20136%2C%20D5702%20San%20Luis%2C%20Argentina!5e0!3m2!1ses!2sco!4v1786480891502!5m2!1ses!2sco',
