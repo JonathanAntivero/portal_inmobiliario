@@ -19,7 +19,7 @@ const PROPIEDADES = [
     precio: '$60.000 El día',
     descripcion: 'Casa completamente amoblada. Apocas cuadras del centro de la ciudad, excelente ubicación. Ideal para estadías cortas, turismo o viajes de trabajo.',
     caracteristicas: ['2 Dormitorios','cocina', 'comedor', 'baño', 'Wifi', 'netflix', 'patio cerrado', 'Cochera opcional'],
-    fotos: ['fotos/foto01.jpg', 'fotos/foto02.jpg', 'fotos/foto03.jpg', 'fotos/foto04.jpg', 'fotos/foto05.jpg'],
+    fotos: ['fotos/foto020.jpg', 'fotos/foto021.jpg', 'fotos/foto022.jpg', 'fotos/foto023.jpg', 'fotos/foto024.jpg', 'fotos/foto025.jpg', 'fotos/foto026.jpg',],
     lat: -34.5875,
     lng: -58.3974, 
     mapaEmbed: 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3284.5883628915285!2d-60.94378902409888!3d-34.58928085673618!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95b8eb26730330b5%3A0x7f21b229df1ed1b3!2sC.%20Italia%2092%2C%20B6022%20Jun%C3%ADn%2C%20Provincia%20de%20Buenos%20Aires%2C%20Argentina!5e0!3m2!1ses!2sco!4v1786221185951!5m2!1ses!2sco',
