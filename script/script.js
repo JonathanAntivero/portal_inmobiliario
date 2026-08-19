@@ -57,7 +57,7 @@ const PROPIEDADES = [
     categoria: 'venta',
     titulo: 'Casa a refaccionar, con arboles frutales y patio grande',
     ubicacion: 'Junín, Buenos Aires, Argentina',
-    precio: 'USD 20.000',
+    precio: 'USD 23.000',
     descripcion: ' Terreno de 430 m2, superficie construida 100m2 aprox',
     caracteristicas: ['2 habitaciones', '1 baños', 'Cocina', 'Living comedor', 'Patio grande', 'lavadero', 'Cochera grande techada', 'Arbol frutal'],
     fotos: ['fotos/foto01.jpg', 'fotos/foto02.jpg', 'fotos/foto03.jpg', 'fotos/foto04.jpg', 'fotos/foto05.jpg'],
