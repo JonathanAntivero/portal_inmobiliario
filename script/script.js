@@ -97,7 +97,7 @@ const PROPIEDADES = [
     fotos: ['fotos/foto034.jpg', 'fotos/foto035.jpg', 'fotos/foto036.jpg', 'fotos/foto037.jpg', 'fotos/foto038.jpg', 'fotos/foto039.jpg', 'fotos/foto040.jpg', 'fotos/foto041.jpg', 'fotos/foto042.jpg', 'fotos/foto043.jpg', 'fotos/foto044.jpg', 'fotos/foto045.jpg'],
     lat: -34.4019,
     lng: -58.6644,
-    whatsapp: '573168204380',
+    whatsapp: '5493765378341',
   }
 ];
 
