@@ -78,7 +78,7 @@ const PROPIEDADES = [
     titulo: 'Depto en Merlo, Bs As, Argentina',
     ubicacion: 'Merlo (Libertad), Buenos Aires, Argentina',
     precio: '$250.000 / mes,',
-    descripcion: 'Monoambiente ideal para persona sola o pareja (sin mascota), con gas natutral, baño con calefón eléctrico. Con leve aumento cada 4 meses. A una cuadra de parada de colectivo.',
+    descripcion: 'Monoambiente ideal para persona sola o pareja (sin mascota), con gas natutral, baño con calefón eléctrico. Sin patio.',
     caracteristicas: ['Monoambiente', 'Gas natural', 'wifi', 'Cerca a colectivo', 'Sin Patio'],
     fotos: ['fotos/foto046.jpg', 'fotos/foto047.jpg', 'fotos/foto048.jpg'],
     lat: -34.6796,
