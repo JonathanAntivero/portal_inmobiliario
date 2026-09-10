@@ -97,6 +97,7 @@ const PROPIEDADES = [
     fotos: ['fotos/foto034.jpg', 'fotos/foto035.jpg', 'fotos/foto036.jpg', 'fotos/foto037.jpg', 'fotos/foto038.jpg', 'fotos/foto039.jpg', 'fotos/foto040.jpg', 'fotos/foto041.jpg', 'fotos/foto042.jpg', 'fotos/foto043.jpg', 'fotos/foto044.jpg', 'fotos/foto045.jpg'],
     lat: -34.4019,
     lng: -58.6644,
+    mapaEmbed: "https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d14162.806489254803!2d-55.88825484925617!3d-27.447408202140725!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1s%20Barrio%20El%20Porvenir%20I%2C%20Posadas!5e0!3m2!1ses!2sco!4v1789068274643!5m2!1ses!2sco",
     whatsapp: '5493765378341',
   }
 ];
