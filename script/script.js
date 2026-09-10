@@ -2,13 +2,6 @@
    PORTAL INMOBILIARIO — script.js
    ========================================================= */
 
-/* ---------------------------------------------------------
-   1) DATOS DE LAS PROPIEDADES
-   Para cargar una propiedad nueva, copiá un bloque { ... }
-   y completá los datos. Las fotos van en la carpeta /fotos.
-   categoria: 'temporario' | 'anual' | 'venta'
-   whatsapp: número completo con código de país, sin + ni espacios
-   --------------------------------------------------------- */
 
 const PROPIEDADES = [
   {
@@ -82,16 +75,29 @@ const PROPIEDADES = [
   {
     id: 6,
     categoria: 'anual',
-    titulo: 'Depto 1 dormitorio en Usaquén',
-    ubicacion: 'Usaquén, Bogotá',
+    titulo: 'Depto en Merlo, Bs As, Argentina',
+    ubicacion: 'Merlo, Buenos Aires, Argentina',
     precio: 'COP 1.900.000 / mes',
-    descripcion: 'Departamento amoblado en edificio con portería. Contrato anual, apto profesional o pareja.',
+    descripcion: '1 Dormitorio, cocina-comedor, baño. Contrato anual. A una cuadra de parada de colectivo.',
     caracteristicas: ['1 dormitorio', 'Amoblado', 'Portería', 'Gimnasio'],
-    fotos: ['fotos/depto-usaquen-1.jpg', 'fotos/depto-usaquen-2.jpg'],
-    lat: 4.6947,
-    lng: -74.0300,
-    whatsapp: '5731100000006',
+    fotos: ['fotos/depto-merlo-1.jpg', 'fotos/depto-merlo-2.jpg'],
+    lat: -34.6796,
+    lng: -58.6700,
+    whatsapp: '5491100000006',
   },
+  {
+    id: 7,
+    categoria: 'venta',
+    titulo: 'Casa en venta, Con arboles frutales, Misiones, Argentina',
+    ubicacion: 'Posada, Misiones, Argentina',
+    precio: '$120.000.000' + ' (negociables)',
+    descripcion: 'El terreno es de aproximadamente 3 Hectáreas. Con muchas plantaciones de Frutas 🍊. Hermoso lugar. Cuenta cn todos los servicios.',
+    caracteristicas: ['3 habitaciones', 'Sala', 'Cocina', 'Baño instalado',],
+    fotos: ['fotos/foto034.jpg', 'fotos/foto035.jpg', 'fotos/foto036.jpg', 'fotos/foto037.jpg', 'fotos/foto038.jpg', 'fotos/foto039.jpg', 'fotos/foto040.jpg', 'fotos/foto041.jpg', 'fotos/foto042.jpg', 'fotos/foto043.jpg', 'fotos/foto044.jpg', 'fotos/foto045.jpg'],
+    lat: -34.4019,
+    lng: -58.6644,
+    whatsapp: '573168204380',
+  }
 ];
 
 const ETIQUETAS_CATEGORIA = {
