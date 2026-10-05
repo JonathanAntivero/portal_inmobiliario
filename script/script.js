@@ -99,6 +99,21 @@ const PROPIEDADES = [
     lng: -58.6644,
     mapaEmbed: "https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d14162.806489254803!2d-55.88825484925617!3d-27.447408202140725!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1s%20Barrio%20El%20Porvenir%20I%2C%20Posadas!5e0!3m2!1ses!2sco!4v1789068274643!5m2!1ses!2sco",
     whatsapp: '5493765378341',
+  },
+
+  {
+    id: 8,
+    categoria: 'venta',
+    titulo: 'Casa estilo cabaña, con arboles frutales, Misiones, Argentina',
+    ubicacion: 'Misiones, Argentina',
+    precio: 'UDS28.000' + ' (negociables)',
+    descripcion: 'Cerca a Cataratas del Iguazú. Casa de dos plantas, con balcón. Amplio terreno de 20x100 m. Arboles de palta, mandarinas, limoneros, duraznos, kinotos, perales, ciruelos, maracuyá, guayaba, melocotón. Con local al frente de 4,50 x 3,50. Sobre ruta 101, Caburei, Andresito. A pocos metros de jardín de infantes, escuelas, comisaría y servicio medico. Con horno de barro y amplia parrilla',
+    caracteristicas: ['5 habitaciones', '2 baños', 'Cocina-Comedor', 'Amplio terreno',],
+    fotos: ['fotos/foto049.jpg', 'fotos/foto050.jpg', 'fotos/foto051.jpg', 'fotos/foto052.jpg', 'fotos/foto053.jpg', 'fotos/foto054.jpg', 'fotos/foto055.jpg', 'fotos/foto056.jpg', 'fotos/foto057.jpg', 'fotos/foto058.jpg', 'fotos/foto059.jpg', 'fotos/foto060.jpg'],
+    lat: -34.4019,
+    lng: -58.6644,
+    mapaEmbed: "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3595.692808534311!2d-54.14691200000001!3d-25.681475999999996!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMjXCsDQwJzUzLjMiUyA1NMKwMDgnNDguOSJX!5e0!3m2!1ses!2sco!4v1791213492404!5m2!1ses!2sco",
+    whatsapp: '5492236836580',
   }
 ];
 
