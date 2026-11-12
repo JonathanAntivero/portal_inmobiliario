@@ -103,7 +103,22 @@ const PROPIEDADES = [
     lng: -58.6644,
     mapaEmbed: "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3595.692808534311!2d-54.14691200000001!3d-25.681475999999996!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMjXCsDQwJzUzLjMiUyA1NMKwMDgnNDguOSJX!5e0!3m2!1ses!2sco!4v1791213492404!5m2!1ses!2sco",
     whatsapp: '5492236836580',
-  }
+  },
+
+  {
+    id: 9,
+    categoria: 'temporario',
+    titulo: 'Monoambiente en alquiler',
+    ubicacion: 'Merlo, Libertad, Buenos Aires, Argentina',
+    precio: '$300.000 El Mes',
+    descripcion: 'Monoambiente en alquiler mensual, ideal para persona sola, a una cuadra de parada del colectivo, servicios de gas natural, electricidad, wifi no se pagan aparte, alquiler aumenta cada 4 meses.',
+    caracteristicas: ['Medidor independiente','Wifi', 'baño con agua caliente',],
+    fotos: ['fotos/foto046.jpg', 'fotos/foto047.jpg', 'fotos/foto048.jpg',],
+    lat: -34.5875,
+    lng: -58.3974, 
+    mapaEmbed: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3280.524844332322!2d-58.66998298829781!3d-34.6919398728101!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bcc0dda2e5510f%3A0x7f0f1599088463b6!2sSan%20Benito%201626%2C%20B1716NCH%20Libertad%2C%20Provincia%20de%20Buenos%20Aires%2C%20Argentina!5e0!3m2!1ses!2sco!4v1794497131271!5m2!1ses!2sco",
+    whatsapp: '5491144498695',
+  },
 ];
 
 const ETIQUETAS_CATEGORIA = {
