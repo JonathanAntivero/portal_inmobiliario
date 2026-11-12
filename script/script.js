@@ -111,7 +111,7 @@ const PROPIEDADES = [
     titulo: 'Monoambiente en alquiler',
     ubicacion: 'Merlo, Libertad, Buenos Aires, Argentina',
     precio: '$300.000 El Mes',
-    descripcion: 'Monoambiente en alquiler mensual, ideal para persona sola, a una cuadra de parada del colectivo, servicios de gas natural, electricidad, wifi no se pagan aparte, alquiler aumenta cada 4 meses.',
+    descripcion: 'Monoambiente en alquiler mensual, ideal para persona sola, a una cuadra de parada del colectivo, servicios se abonan aparte, alquiler aumenta cada 4 meses.',
     caracteristicas: ['Medidor independiente','Wifi', 'baño con agua caliente',],
     fotos: ['fotos/foto046.jpg', 'fotos/foto047.jpg', 'fotos/foto048.jpg',],
     lat: -34.5875,
